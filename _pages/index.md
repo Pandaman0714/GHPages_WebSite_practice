@@ -1,14 +1,8 @@
 ---
-title: "ここにページのタイトル"
+title: "Reo's portfolio"
 author: default
 permalink: /
 ---
-
-
-こんにちは
-こんばんは
-おはようございます
-
 
 
 ---
@@ -19,6 +13,8 @@ permalink: /
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 名前：松井怜生
+趣味：読書、カフェ巡り
+
 
 改行は、行末に半角スペースを2個いれる
 次の行
