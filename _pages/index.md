@@ -15,12 +15,10 @@ permalink: /
 
 以下テンプレート
 
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
-##### 見出し5
-###### 見出し6
+# 自己紹介
+
+![image](/GHPages_WebSite/assets/images/logo-150.png)
+名前：松井怜生
 
 改行は、行末に半角スペースを2個いれる
 次の行
@@ -48,4 +46,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+
